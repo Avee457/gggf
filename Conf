@@ -1,0 +1,96 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", CARTOON NETWORK 4K
+/hls/ms_cartoon_network.m3u8?md5=ZRP9VT8IfuVXrAZbA88Cjg&expires=1573022637&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", NICK JR 4K
+http://la.cdniptv.com/BR_Nick_Junior_HD.m3u8?md5=ZRP9VT8IfuVXrAZbA88Cjg&expires=1573022637&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", NICK 4K
+http://la.cdniptv.com:9088/hls/ms_nick_hd.m3u8?md5=ZRP9VT8IfuVXrAZbA88Cjg&expires=1573022637&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", DISCOVERY KIDS 4K
+http://la.cdniptv.com:9088/hls/ms_discovery_kids.m3u8?md5=ZRP9VT8IfuVXrAZbA88Cjg&expires=1573022637&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", DISNEY CHANNEL 4K
+http://la.cdniptv.com:9088/hls/ms_disney_channel.m3u8?md5=ZRP9VT8IfuVXrAZbA88Cjg&expires=1573022637&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", DISNEY XD 4K
+http://la.cdniptv.com:9088/hls/ms_disney_xd.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", DISNEY JR 4K
+http://la.cdniptv.com:9088/hls/ms_disney_jr.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", NAT GEO KIDS 4K
+http://la.cdniptv.com/BR_NAT_GEO_KIDS_HD.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", BOOMERANG 4K
+http://la.cdniptv.com:9088/hls/ms_boomerang.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", GLOOB HD
+http://la.cdniptv.com/GLOOB.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", COMBATE 4K
+http://la.cdniptv.com/br_combate.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", ESPN
+http://la.cdniptv.com:9088/hls/ms_espnHD.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", ESPN 2 4K
+http://la.cdniptv.com:9088/hls/ms_espn_plus.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", ESPN BRASIL 4K
+http://la.cdniptv.com:9088/hls/ms_espn_brasil.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", ESPN EXTRA 4K
+http://la.cdniptv.com:9088/hls/ms_espn_extra.m3u8?md5=vCYdbt2ThWWTuABhx-X1ug&expires=1573023882&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", FOX SPORTS 4K
+http://la.cdniptv.com:9088/hls/ms_fox_sport_1.m3u8?md5=iHkTtJ7SQ_d60kiEpJLT0w&expires=1573025258&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", FOX SPORTS 2 4K
+http://la.cdniptv.com:9088/hls/ms_fox_sport_2.m3u8?md5=iHkTtJ7SQ_d60kiEpJLT0w&expires=1573025258&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 4K
+http://la.cdniptv.com:9088/hls/ms_sport_tv_1.m3u8?md5=iHkTtJ7SQ_d60kiEpJLT0w&expires=1573025258&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 2 4K
+http://la.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=iHkTtJ7SQ_d60kiEpJLT0w&expires=1573025258&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 3 4K
+http://la.cdniptv.com:9088/hls/ms_sport_tv_3.m3u8?md5=iHkTtJ7SQ_d60kiEpJLT0w&expires=1573025258&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", PREMIERE FUTEBOL CLUBES 4K
+http://la.cdniptv.com:9088/hls/ms_premier_club.m3u8?md5=iHkTtJ7SQ_d60kiEpJLT0w&expires=1573025258&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", PREMIERE 2 4K
+http://la.cdniptv.com:9088/hls/ms_premier_2hd.m3u8?md5=hseKVO3s-RnMrc8B7ZR6cQ&expires=1573026459&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES/FILMES", TNT HD
+http://la.cdniptv.com/BR_TNT_HD.m3u8?md5=hseKVO3s-RnMrc8B7ZR6cQ&expires=1573026459&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES", TC ACTION 4K
+http://la.cdniptv.com:9088/hls/ms_tc_action.m3u8?md5=hseKVO3s-RnMrc8B7ZR6cQ&expires=1573026459&u=1160041&p=5206787&dd=1160041&devicetype=eai
